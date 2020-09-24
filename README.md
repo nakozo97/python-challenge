@@ -4,6 +4,7 @@ Python Homework Challenge #3 - PyBank
 Instructions: In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
 Solution: 
+
 Created a Python script that analyzes the records to calculate each of the following:
   
   The total number of months included in the dataset.
@@ -27,6 +28,7 @@ Instructions: In this challenge, you are tasked with helping a small, rural town
 You will be give a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. 
 
 Solution: 
+
 Created a Python script that analyzes the votes and calculates each of the following:
   
   The total number of votes cast.
