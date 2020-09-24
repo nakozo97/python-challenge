@@ -5,6 +5,7 @@ Instructions: In this challenge, you are tasked with creating a Python script fo
 
 Solution: 
 Created a Python script that analyzes the records to calculate each of the following:
+  
   The total number of months included in the dataset
   The net total amount of "Profit/Losses" over the entire period
   The average of the changes in "Profit/Losses" over the entire period
@@ -23,6 +24,7 @@ You will be give a set of poll data called election_data.csv. The dataset is com
 
 Solution: 
 Created a Python script that analyzes the votes and calculates each of the following:
+  
   The total number of votes cast
   A complete list of candidates who received votes
   The percentage of votes each candidate won
